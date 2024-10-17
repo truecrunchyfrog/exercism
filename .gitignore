@@ -1,0 +1,7 @@
+scala/null
+scala/.metals
+scala/*/.bloop
+scala/*/target
+scala/*/project/**/target
+*/.idea
+*/.vscode
